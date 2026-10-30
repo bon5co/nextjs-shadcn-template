@@ -7,6 +7,11 @@ First, run the development server:
 ```bash
 npm run dev
 # or
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nextjs-shadcn?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [NextJS + ShadCN template](https://railway.com/deploy/nextjs-shadcn?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 yarn dev
 # or
 pnpm dev
